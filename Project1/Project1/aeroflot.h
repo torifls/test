@@ -5,11 +5,15 @@
 #include <string>
 
 class AEROFLOT {
+
 	
 
 public:
-	AEROFLOT();
-	
+
+	void Read();
+	void Print();
+
+	~AEROFLOT();
 };
 
 #endif

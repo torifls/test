@@ -20,6 +20,9 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ex.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
     <ClCompile Include="aeroflot.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>

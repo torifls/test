@@ -117,6 +117,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="aeroflot.cpp" />
+    <ClCompile Include="ex.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aeroflot.h" />
