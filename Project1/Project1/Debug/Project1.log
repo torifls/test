@@ -1,10 +1,2 @@
-﻿  aeroflot.cpp
-d:\1641\gavilova\test\project1\project1\aeroflot.cpp(5): error C2600: AEROFLOT::AEROFLOT: нельзя определить специальную функцию-член, созданную компилятором (сначала необходимо объявить ее в классе)
-d:\1641\gavilova\test\project1\project1\aeroflot.cpp(6): error C2065: destination: необъявленный идентификатор
-  d:\1641\gavilova\test\project1\project1\aeroflot.cpp(6): note: Сообщение диагностики возникло в созданной компилятором функции "AEROFLOT::AEROFLOT(void)"
-d:\1641\gavilova\test\project1\project1\aeroflot.cpp(7): error C2065: route: необъявленный идентификатор
-  d:\1641\gavilova\test\project1\project1\aeroflot.cpp(7): note: Сообщение диагностики возникло в созданной компилятором функции "AEROFLOT::AEROFLOT(void)"
-d:\1641\gavilova\test\project1\project1\aeroflot.cpp(8): error C2065: type: необъявленный идентификатор
-  d:\1641\gavilova\test\project1\project1\aeroflot.cpp(8): note: Сообщение диагностики возникло в созданной компилятором функции "AEROFLOT::AEROFLOT(void)"
-  ex.cpp
-  Создание кода...
+﻿  ex.cpp
+  Project1.vcxproj -> D:\1641\Gavilova\test\Project1\Debug\Project1.exe
